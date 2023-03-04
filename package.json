@@ -1,0 +1,23 @@
+{
+  "name": "06-btntsaluda",
+  "version": "1.0.0",
+  "description": "Botón Saludar",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlbertoCloudDeveloper/practica06_btnTsaluda.git"
+  },
+  "author": "Abeto",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AlbertoCloudDeveloper/practica06_btnTsaluda/issues"
+  },
+  "homepage": "https://github.com/AlbertoCloudDeveloper/practica06_btnTsaluda#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}

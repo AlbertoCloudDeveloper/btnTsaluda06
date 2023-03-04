@@ -1,0 +1,10 @@
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+input {
+    display: block;
+    margin-bottom: auto;
+    margin: 15px;
+}
