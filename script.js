@@ -1,7 +1,6 @@
-const txtBtn = document.getElementById("txtBtn");
-const submitBtn = document.getElementById("submitBtn")
+const txtBtn = document.getElementById("txtBtn")
 
-function saludar () {
-    console.log("El Bontón te Saluda");
-    alert("El Bontón te Saluda");
+function saludar (){
+    console.log("Activaste Boton");
+    alert("Activaste Boton");
 }
